@@ -16,14 +16,16 @@ Este proyecto muestra **patrones de layout responsivo** que ayudan a estructurar
 
 ## Tecnologías usadas
 
-- HTML5  
-- CSS3 (media queries, grids / flexbox)  
+- HTML  
+- CSS (media queries, grids / flexbox)  
 
 ##  ¿Cómo usar este proyecto?
 Cómo ejecutarlo
 1. Clona este repositorio
 2. Abre `index.html` 
    - (recomendado) usa VS Code
+3. Explora cada carpera con los diferentes patrones de diseño
+    - (recomendado) usa un navegador dev para usar la función inspección y ver mejor el RWD.    
 ## Autor
 Cesar Alan Gonzalez Ruiz  
 LinkedIn: Cesar Alan Gonzalez Ruiz(https://www.linkedin.com/in/cesar-alan-gonzalez-ruiz-35ab42372)  
