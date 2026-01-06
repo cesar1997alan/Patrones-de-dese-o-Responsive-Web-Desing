@@ -23,9 +23,9 @@ Este proyecto muestra **patrones de layout responsivo** que ayudan a estructurar
 Cómo ejecutarlo
 1. Clona este repositorio
 2. Abre `index.html` 
-   - (recomendado) usa VS Code
+   - (recomendacion) usa VS Code
 3. Explora cada carpera con los diferentes patrones de diseño
-    - (recomendado) usa un navegador dev para usar la función inspección y ver mejor el RWD.    
+    - (recomendacion) usa un navegador dev para usar la función inspección y ver mejor el RWD.    
 ## Autor
 Cesar Alan Gonzalez Ruiz  
 LinkedIn: Cesar Alan Gonzalez Ruiz (https://www.linkedin.com/in/cesar-alan-gonzalez-ruiz-35ab42372)  
